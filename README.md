@@ -66,7 +66,7 @@ This repository covers the backend Data Engineering (extracting, cleansing, and 
 
 To see how I utilized the resulting **Gold Layer** to extract strategic business insights, perform customer segmentation, and track KPIs using advanced T-SQL, check out the second half of this project:
 
-> **View the Business Intelligence phase here:** > [SQL Data Analytics & Reporting Project](https://github.com/KrishnaSai315/SQL-Data-Analytics/tree/main)
+> **View the Business Intelligence phase here:** > [SQL Data Analytics & Reporting Project](https://github.com/loknadh-kona/sql-sales-analytics)
 
 These insights help stakeholders understand key business metrics and make strategic decisions.  
 
@@ -74,7 +74,7 @@ These insights help stakeholders understand key business metrics and make strate
 
 ## 📂 Repository Structure
 ```text
-data-warehouse-project/
+sql-data-warehouse/
 │
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
 │
@@ -114,7 +114,7 @@ Architected a Data Warehouse: Designed and built a modern data warehouse from sc
 
 Engineered ETL Pipelines: Wrote robust T-SQL scripts to extract raw, fragmented ERP and CRM data (Bronze), cleanse and normalize it (Silver), and model it into a high-performance Star Schema (Gold).
 
-Delivered Business Intelligence: Transformed chaotic CSV files into a centralized, single source of truth capable of answering complex business questions regarding customer segmentation, product inventory, and sales forecasting.
+Delivered Business Intelligence: Transformed chaotic CSV files into a centralized, single source of truth capable of answering complex business questions regarding customer behavior, product performance, and sales trends.
 
 
 
